@@ -60,7 +60,7 @@ sudo apt update -y && sudo apt upgrade -y && sudo apt install curl git cron -y &
 ```
 
 ```bash
-curl -o dc https://raw.githubusercontent.com/woosungchoi/docker-rhymix/main/dc && bash dc setup && rm -f dc
+curl -o dc https://raw.githubusercontent.com/statground/docker-rhymix/main/dc && bash dc setup && rm -f dc
 ```
 
 ### For Centos 8 users
@@ -70,7 +70,7 @@ sudo yum -y update && sudo yum install -y curl git crontabs
 ```
 
 ```bash
-curl -o dcc https://raw.githubusercontent.com/woosungchoi/docker-rhymix/main/dcc && bash dcc setup && rm -f dcc
+curl -o dcc https://raw.githubusercontent.com/statground/docker-rhymix/main/dcc && bash dcc setup && rm -f dcc
 ```
 
 ---
@@ -84,7 +84,7 @@ sudo apt update -y && sudo apt upgrade -y && sudo apt install curl git -y && sud
 ```
 
 ```bash
-curl -o dcl https://raw.githubusercontent.com/woosungchoi/docker-rhymix/main/dcl && bash dcl setup && rm -f dcl
+curl -o dcl https://raw.githubusercontent.com/statground/docker-rhymix/main/dcl && bash dcl setup && rm -f dcl
 ```
 
 ### For Centos 8 users
@@ -94,7 +94,7 @@ sudo yum -y update && sudo yum install -y curl git
 ```
 
 ```bash
-curl -o dccl https://raw.githubusercontent.com/woosungchoi/docker-rhymix/main/dccl && bash dccl setup && rm -f dccl
+curl -o dccl https://raw.githubusercontent.com/statground/docker-rhymix/main/dccl && bash dccl setup && rm -f dccl
 ```
 
 ### For Windows 10 WSL2 Ubuntu 20.04 LTS users
@@ -108,7 +108,7 @@ sudo apt update -y && sudo apt upgrade -y && sudo apt autoremove -y
 ```
 
 ```bash
-curl -o dcwl https://raw.githubusercontent.com/woosungchoi/docker-rhymix/main/dcwl && bash dcwl setup && rm -f dcwl
+curl -o dcwl https://raw.githubusercontent.com/statground/docker-rhymix/main/dcwl && bash dcwl setup && rm -f dcwl
 ```
 
 ---
@@ -122,7 +122,7 @@ sudo apt update -y && sudo apt upgrade -y && sudo apt install curl git cron -y &
 ```
 
 ```bash
-curl -o dc https://raw.githubusercontent.com/woosungchoi/docker-rhymix/main/dc-8.0 && bash dc setup && rm -f dc
+curl -o dc https://raw.githubusercontent.com/statground/docker-rhymix/main/dc-8.0 && bash dc setup && rm -f dc
 ```
 
 ### For Centos 8 users
@@ -132,7 +132,7 @@ sudo yum -y update && sudo yum install -y curl git crontabs
 ```
 
 ```bash
-curl -o dcc https://raw.githubusercontent.com/woosungchoi/docker-rhymix/main/dcc-8.0 && bash dcc setup && rm -f dcc
+curl -o dcc https://raw.githubusercontent.com/statground/docker-rhymix/main/dcc-8.0 && bash dcc setup && rm -f dcc
 ```
 
 ---
@@ -146,7 +146,7 @@ sudo apt update -y && sudo apt upgrade -y && sudo apt install curl git -y && sud
 ```
 
 ```bash
-curl -o dcl https://raw.githubusercontent.com/woosungchoi/docker-rhymix/main/dcl-8.0 && bash dcl setup && rm -f dcl
+curl -o dcl https://raw.githubusercontent.com/statground/docker-rhymix/main/dcl-8.0 && bash dcl setup && rm -f dcl
 ```
 
 ### For Centos 8 users
@@ -156,7 +156,7 @@ sudo yum -y update && sudo yum install -y curl git
 ```
 
 ```bash
-curl -o dccl https://raw.githubusercontent.com/woosungchoi/docker-rhymix/main/dccl-8.0 && bash dccl setup && rm -f dccl
+curl -o dccl https://raw.githubusercontent.com/statground/docker-rhymix/main/dccl-8.0 && bash dccl setup && rm -f dccl
 ```
 
 ### For Windows 10 WSL2 Ubuntu 20.04 LTS users
@@ -170,7 +170,7 @@ sudo apt update -y && sudo apt upgrade -y && sudo apt autoremove -y
 ```
 
 ```bash
-curl -o dcwl https://raw.githubusercontent.com/woosungchoi/docker-rhymix/main/dcwl-8.0 && bash dcwl setup && rm -f dcwl
+curl -o dcwl https://raw.githubusercontent.com/statground/docker-rhymix/main/dcwl-8.0 && bash dcwl setup && rm -f dcwl
 ```
 
 ---
